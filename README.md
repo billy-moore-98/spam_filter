@@ -1,6 +1,6 @@
 # spam_filter
 
-In this project I have explored the Naive Bayes' algorithm and applied it to build a text SMS spam filter. The model has an accuracy of over 90%.
+In this project I have explored the multinomial Naive Bayes' algorithm and applied it to build a text SMS spam filter. The model has an accuracy of over 90%.
 
 The dataset used for both training and testing of the algorithm was created by Tiago A. Almeida and José María Gómez Hidalgo, and can be found at [The UCL Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection). The dataset contains SMS messages that are already classified as being spam or not.
 
